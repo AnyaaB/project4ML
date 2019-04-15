@@ -1,5 +1,5 @@
 I used RLSim to do tihs project. My two MDPs are 0_small.maze and 7_medium_complex_multigoal.maze in the mazes folder. 
 There is documentation in the help folder, and it is very easy to implement all the algorithms by navigating the UI. 
 If there is a parameter available that I did not mention in the report, it is the default.
-The code is avaiable here: 
+The code is avaiable here: https://github.com/AnyaaB/project4ML
 There is more information available here: https://www.cs.cmu.edu/~awm/rlsim/
